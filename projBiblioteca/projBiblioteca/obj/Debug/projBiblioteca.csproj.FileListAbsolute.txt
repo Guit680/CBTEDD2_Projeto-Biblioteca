@@ -1,0 +1,7 @@
+C:\Users\guilh\Desktop\projBiblioteca\projBiblioteca\bin\Debug\projBiblioteca.exe.config
+C:\Users\guilh\Desktop\projBiblioteca\projBiblioteca\bin\Debug\projBiblioteca.exe
+C:\Users\guilh\Desktop\projBiblioteca\projBiblioteca\bin\Debug\projBiblioteca.pdb
+C:\Users\guilh\Desktop\projBiblioteca\projBiblioteca\obj\Debug\projBiblioteca.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\projBiblioteca\projBiblioteca\obj\Debug\projBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\projBiblioteca\projBiblioteca\obj\Debug\projBiblioteca.exe
+C:\Users\guilh\Desktop\projBiblioteca\projBiblioteca\obj\Debug\projBiblioteca.pdb
